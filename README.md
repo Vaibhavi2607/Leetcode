@@ -6,12 +6,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Vaibhavi2607/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Vaibhavi2607/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Vaibhavi2607/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Vaibhavi2607/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Vaibhavi2607/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Vaibhavi2607/Leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Vaibhavi2607/Leetcode/tree/master/0198-house-robber) |
 | [0740-delete-and-earn](https://github.com/Vaibhavi2607/Leetcode/tree/master/0740-delete-and-earn) |
@@ -38,4 +40,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0740-delete-and-earn](https://github.com/Vaibhavi2607/Leetcode/tree/master/0740-delete-and-earn) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Vaibhavi2607/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
