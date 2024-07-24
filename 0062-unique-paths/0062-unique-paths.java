@@ -20,7 +20,7 @@ class Solution {
     public static void main(String[] args) {
         Solution solution = new Solution();
         int m = 3;
-        int n = 7;
+        int n = 2;
         int result = solution.uniquePaths(m, n);
         System.out.println("Number of unique paths: " + result);
     }
