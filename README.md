@@ -63,4 +63,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1827-invalid-tweets](https://github.com/Vaibhavi2607/Leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Vaibhavi2607/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Vaibhavi2607/Leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## String
+|  |
+| ------- |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Vaibhavi2607/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+## Simulation
+|  |
+| ------- |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Vaibhavi2607/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 <!---LeetCode Topics End-->
