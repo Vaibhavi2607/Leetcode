@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/Vaibhavi2607/Leetcode/tree/master/0198-house-robber) |
 | [0740-delete-and-earn](https://github.com/Vaibhavi2607/Leetcode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/Vaibhavi2607/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [2465-shifting-letters-ii](https://github.com/Vaibhavi2607/Leetcode/tree/master/2465-shifting-letters-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,8 +72,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Vaibhavi2607/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2465-shifting-letters-ii](https://github.com/Vaibhavi2607/Leetcode/tree/master/2465-shifting-letters-ii) |
 ## Simulation
 |  |
 | ------- |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Vaibhavi2607/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+## Prefix Sum
+|  |
+| ------- |
+| [2465-shifting-letters-ii](https://github.com/Vaibhavi2607/Leetcode/tree/master/2465-shifting-letters-ii) |
 <!---LeetCode Topics End-->
