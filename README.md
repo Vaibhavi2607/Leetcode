@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1524-string-matching-in-an-array](https://github.com/Vaibhavi2607/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Vaibhavi2607/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2465-shifting-letters-ii](https://github.com/Vaibhavi2607/Leetcode/tree/master/2465-shifting-letters-ii) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Vaibhavi2607/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Vaibhavi2607/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Vaibhavi2607/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2465-shifting-letters-ii](https://github.com/Vaibhavi2607/Leetcode/tree/master/2465-shifting-letters-ii) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Vaibhavi2607/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Simulation
 |  |
 | ------- |
@@ -90,4 +92,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/Vaibhavi2607/Leetcode/tree/master/1524-string-matching-in-an-array) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Vaibhavi2607/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Trie
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Vaibhavi2607/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Vaibhavi2607/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Vaibhavi2607/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
