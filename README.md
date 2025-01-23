@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0740-delete-and-earn](https://github.com/Vaibhavi2607/Leetcode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/Vaibhavi2607/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0952-word-subsets](https://github.com/Vaibhavi2607/Leetcode/tree/master/0952-word-subsets) |
+| [1396-count-servers-that-communicate](https://github.com/Vaibhavi2607/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1524-string-matching-in-an-array](https://github.com/Vaibhavi2607/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1876-map-of-highest-peak](https://github.com/Vaibhavi2607/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Vaibhavi2607/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Vaibhavi2607/Leetcode/tree/master/0064-minimum-path-sum) |
+| [1396-count-servers-that-communicate](https://github.com/Vaibhavi2607/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/Vaibhavi2607/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/Vaibhavi2607/Leetcode/tree/master/2145-grid-game) |
 ## Database
@@ -138,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/Vaibhavi2607/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Vaibhavi2607/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Vaibhavi2607/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Stack
@@ -155,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Vaibhavi2607/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [1396-count-servers-that-communicate](https://github.com/Vaibhavi2607/Leetcode/tree/master/1396-count-servers-that-communicate) |
 ## Brainteaser
 |  |
 | ------- |
@@ -162,5 +166,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/Vaibhavi2607/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/Vaibhavi2607/Leetcode/tree/master/1876-map-of-highest-peak) |
+## Depth-First Search
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/Vaibhavi2607/Leetcode/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
