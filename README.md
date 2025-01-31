@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/Vaibhavi2607/Leetcode/tree/master/0198-house-robber) |
 | [0740-delete-and-earn](https://github.com/Vaibhavi2607/Leetcode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/Vaibhavi2607/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0854-making-a-large-island](https://github.com/Vaibhavi2607/Leetcode/tree/master/0854-making-a-large-island) |
 | [0952-word-subsets](https://github.com/Vaibhavi2607/Leetcode/tree/master/0952-word-subsets) |
 | [1396-count-servers-that-communicate](https://github.com/Vaibhavi2607/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1524-string-matching-in-an-array](https://github.com/Vaibhavi2607/Leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Vaibhavi2607/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0854-making-a-large-island](https://github.com/Vaibhavi2607/Leetcode/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/Vaibhavi2607/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/Vaibhavi2607/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/Vaibhavi2607/Leetcode/tree/master/2145-grid-game) |
@@ -162,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Vaibhavi2607/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0684-redundant-connection](https://github.com/Vaibhavi2607/Leetcode/tree/master/0684-redundant-connection) |
+| [0854-making-a-large-island](https://github.com/Vaibhavi2607/Leetcode/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/Vaibhavi2607/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Vaibhavi2607/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Vaibhavi2607/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -174,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0684-redundant-connection](https://github.com/Vaibhavi2607/Leetcode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Vaibhavi2607/Leetcode/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/Vaibhavi2607/Leetcode/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/Vaibhavi2607/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/Vaibhavi2607/Leetcode/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/Vaibhavi2607/Leetcode/tree/master/1876-map-of-highest-peak) |
@@ -183,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0684-redundant-connection](https://github.com/Vaibhavi2607/Leetcode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Vaibhavi2607/Leetcode/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/Vaibhavi2607/Leetcode/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/Vaibhavi2607/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/Vaibhavi2607/Leetcode/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Vaibhavi2607/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
