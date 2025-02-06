@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0747-min-cost-climbing-stairs](https://github.com/Vaibhavi2607/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0854-making-a-large-island](https://github.com/Vaibhavi2607/Leetcode/tree/master/0854-making-a-large-island) |
 | [0952-word-subsets](https://github.com/Vaibhavi2607/Leetcode/tree/master/0952-word-subsets) |
+| [1364-tuple-with-same-product](https://github.com/Vaibhavi2607/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Vaibhavi2607/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1524-string-matching-in-an-array](https://github.com/Vaibhavi2607/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1876-map-of-highest-peak](https://github.com/Vaibhavi2607/Leetcode/tree/master/1876-map-of-highest-peak) |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/Vaibhavi2607/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0740-delete-and-earn](https://github.com/Vaibhavi2607/Leetcode/tree/master/0740-delete-and-earn) |
 | [0952-word-subsets](https://github.com/Vaibhavi2607/Leetcode/tree/master/0952-word-subsets) |
+| [1364-tuple-with-same-product](https://github.com/Vaibhavi2607/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/Vaibhavi2607/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Vaibhavi2607/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Vaibhavi2607/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -152,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/Vaibhavi2607/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Vaibhavi2607/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Vaibhavi2607/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Vaibhavi2607/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
