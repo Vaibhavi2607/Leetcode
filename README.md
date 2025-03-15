@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2551-apply-operations-to-an-array](https://github.com/Vaibhavi2607/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Vaibhavi2607/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vaibhavi2607/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2690-house-robber-iv](https://github.com/Vaibhavi2607/Leetcode/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Vaibhavi2607/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Vaibhavi2607/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Vaibhavi2607/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -358,5 +359,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Vaibhavi2607/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vaibhavi2607/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2690-house-robber-iv](https://github.com/Vaibhavi2607/Leetcode/tree/master/2690-house-robber-iv) |
 | [3643-zero-array-transformation-ii](https://github.com/Vaibhavi2607/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 <!---LeetCode Topics End-->
