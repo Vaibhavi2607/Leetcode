@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1236-n-th-tribonacci-number](https://github.com/Vaibhavi2607/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Vaibhavi2607/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Vaibhavi2607/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Vaibhavi2607/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Memoization
 |  |
 | ------- |
@@ -302,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/Vaibhavi2607/Leetcode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Vaibhavi2607/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/Vaibhavi2607/Leetcode/tree/master/1558-course-schedule-iv) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Vaibhavi2607/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Vaibhavi2607/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Vaibhavi2607/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Vaibhavi2607/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -312,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/Vaibhavi2607/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/Vaibhavi2607/Leetcode/tree/master/1558-course-schedule-iv) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Vaibhavi2607/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Vaibhavi2607/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Vaibhavi2607/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Sorting
@@ -394,4 +397,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Vaibhavi2607/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Shortest Path
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Vaibhavi2607/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
