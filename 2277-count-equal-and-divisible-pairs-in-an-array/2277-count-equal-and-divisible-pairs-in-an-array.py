@@ -3,10 +3,13 @@ class Solution:
         count = 0
         index = 0
         n = len(nums)
+        count1 = 0
 
         for i in range(n - 1):
             for j in range(n):
-                if i < j < n and nums[i] == nums[j] and (i * j) % k == 0:
-                    count += 1
+                if (i * j) % k == 0:
+                    if i < j < n and nums[i] == nums[j]:
+                        count += 1
+                    
         return count
         
