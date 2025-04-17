@@ -6,8 +6,8 @@ class Solution:
 
         for i in range(n - 1):
             for j in range(n):
-                if i < j < n:
-                    if nums[i] == nums[j] and (i * j) % k == 0:
+                if i < j < n and nums[i] == nums[j]:
+                    if (i * j) % k == 0:
                         count += 1
         return count
         
