@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3001-apply-operations-to-maximize-score](https://github.com/Vaibhavi2607/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/Vaibhavi2607/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Vaibhavi2607/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/Vaibhavi2607/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2262-solving-questions-with-brainpower](https://github.com/Vaibhavi2607/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Vaibhavi2607/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Vaibhavi2607/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/Vaibhavi2607/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Memoization
 |  |
 | ------- |
@@ -188,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/Vaibhavi2607/Leetcode/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Vaibhavi2607/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Vaibhavi2607/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3637-count-number-of-balanced-permutations](https://github.com/Vaibhavi2607/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Matrix
 |  |
 | ------- |
@@ -252,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Vaibhavi2607/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/Vaibhavi2607/Leetcode/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Vaibhavi2607/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3637-count-number-of-balanced-permutations](https://github.com/Vaibhavi2607/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Simulation
 |  |
 | ------- |
