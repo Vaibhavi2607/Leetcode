@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Vaibhavi2607/Leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Vaibhavi2607/Leetcode/tree/master/0035-search-insert-position) |
 | [0064-minimum-path-sum](https://github.com/Vaibhavi2607/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0075-sort-colors](https://github.com/Vaibhavi2607/Leetcode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/Vaibhavi2607/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/Vaibhavi2607/Leetcode/tree/master/0198-house-robber) |
 | [0368-largest-divisible-subset](https://github.com/Vaibhavi2607/Leetcode/tree/master/0368-largest-divisible-subset) |
@@ -417,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Vaibhavi2607/Leetcode/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/Vaibhavi2607/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Vaibhavi2607/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Vaibhavi2607/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -483,6 +485,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Vaibhavi2607/Leetcode/tree/master/0075-sort-colors) |
 | [0768-partition-labels](https://github.com/Vaibhavi2607/Leetcode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Vaibhavi2607/Leetcode/tree/master/0868-push-dominoes) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Vaibhavi2607/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
