@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3001-apply-operations-to-maximize-score](https://github.com/Vaibhavi2607/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/Vaibhavi2607/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Vaibhavi2607/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3321-type-of-triangle](https://github.com/Vaibhavi2607/Leetcode/tree/master/3321-type-of-triangle) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Vaibhavi2607/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Dynamic Programming
 |  |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Vaibhavi2607/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/Vaibhavi2607/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Vaibhavi2607/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3321-type-of-triangle](https://github.com/Vaibhavi2607/Leetcode/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Vaibhavi2607/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Vaibhavi2607/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Vaibhavi2607/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -429,6 +431,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2888-minimum-index-of-a-valid-split](https://github.com/Vaibhavi2607/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Vaibhavi2607/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Vaibhavi2607/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3321-type-of-triangle](https://github.com/Vaibhavi2607/Leetcode/tree/master/3321-type-of-triangle) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Vaibhavi2607/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Design
 |  |
