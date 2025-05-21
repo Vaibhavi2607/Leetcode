@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Vaibhavi2607/Leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Vaibhavi2607/Leetcode/tree/master/0035-search-insert-position) |
 | [0064-minimum-path-sum](https://github.com/Vaibhavi2607/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Vaibhavi2607/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Vaibhavi2607/Leetcode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/Vaibhavi2607/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/Vaibhavi2607/Leetcode/tree/master/0198-house-robber) |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/Vaibhavi2607/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vaibhavi2607/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/Vaibhavi2607/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Vaibhavi2607/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0740-delete-and-earn](https://github.com/Vaibhavi2607/Leetcode/tree/master/0740-delete-and-earn) |
 | [0768-partition-labels](https://github.com/Vaibhavi2607/Leetcode/tree/master/0768-partition-labels) |
@@ -202,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Vaibhavi2607/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Vaibhavi2607/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0854-making-a-large-island](https://github.com/Vaibhavi2607/Leetcode/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/Vaibhavi2607/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/Vaibhavi2607/Leetcode/tree/master/1876-map-of-highest-peak) |
