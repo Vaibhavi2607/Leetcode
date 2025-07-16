@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Vaibhavi2607/Leetcode/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/Vaibhavi2607/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Vaibhavi2607/Leetcode/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/Vaibhavi2607/Leetcode/tree/master/0368-largest-divisible-subset) |
