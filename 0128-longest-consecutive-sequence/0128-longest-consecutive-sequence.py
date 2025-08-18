@@ -3,15 +3,12 @@ class Solution:
         num_set = set(nums)
         longest = 0
 
-        for n in num_set:  # Iterate over the set directly
-            # Only start counting if n-1 is not in the set (i.e., n is the start of a sequence)
-            if (n - 1) not in num_set:
-                length = 1
-                current = n
-                # Count the length of the consecutive sequence starting from n
+        for num in num_set:
+            if (num - 1) not in num_set:
+                current = num
+                streak = 1
                 while (current + 1) in num_set:
                     current += 1
-                    length += 1
-                longest = max(longest, length)
-
+                    streak += 1
+                longest = max(longest, streak)
         return longest
