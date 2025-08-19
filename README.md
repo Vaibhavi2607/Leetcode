@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vaibhavi2607/Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Vaibhavi2607/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Vaibhavi2607/Leetcode/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/Vaibhavi2607/Leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Vaibhavi2607/Leetcode/tree/master/0049-group-anagrams) |
@@ -366,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Vaibhavi2607/Leetcode/tree/master/0011-container-with-most-water) |
 | [0768-partition-labels](https://github.com/Vaibhavi2607/Leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Vaibhavi2607/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Vaibhavi2607/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -587,6 +589,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Vaibhavi2607/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Vaibhavi2607/Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Vaibhavi2607/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Vaibhavi2607/Leetcode/tree/master/0125-valid-palindrome) |
