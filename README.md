@@ -278,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vaibhavi2607/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0038-count-and-say](https://github.com/Vaibhavi2607/Leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Vaibhavi2607/Leetcode/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/Vaibhavi2607/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Vaibhavi2607/Leetcode/tree/master/0242-valid-anagram) |
 | [0768-partition-labels](https://github.com/Vaibhavi2607/Leetcode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Vaibhavi2607/Leetcode/tree/master/0868-push-dominoes) |
@@ -584,6 +585,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Vaibhavi2607/Leetcode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Vaibhavi2607/Leetcode/tree/master/0125-valid-palindrome) |
 | [0768-partition-labels](https://github.com/Vaibhavi2607/Leetcode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Vaibhavi2607/Leetcode/tree/master/0868-push-dominoes) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Vaibhavi2607/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
