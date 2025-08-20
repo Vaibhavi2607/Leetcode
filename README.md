@@ -197,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Vaibhavi2607/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Vaibhavi2607/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Vaibhavi2607/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/Vaibhavi2607/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0740-delete-and-earn](https://github.com/Vaibhavi2607/Leetcode/tree/master/0740-delete-and-earn) |
 | [0768-partition-labels](https://github.com/Vaibhavi2607/Leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Vaibhavi2607/Leetcode/tree/master/0797-rabbits-in-forest) |
@@ -285,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Vaibhavi2607/Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Vaibhavi2607/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Vaibhavi2607/Leetcode/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/Vaibhavi2607/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0768-partition-labels](https://github.com/Vaibhavi2607/Leetcode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Vaibhavi2607/Leetcode/tree/master/0868-push-dominoes) |
 | [0952-word-subsets](https://github.com/Vaibhavi2607/Leetcode/tree/master/0952-word-subsets) |
@@ -615,6 +617,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vaibhavi2607/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Vaibhavi2607/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Vaibhavi2607/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Vaibhavi2607/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Vaibhavi2607/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
